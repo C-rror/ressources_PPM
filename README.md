@@ -17,3 +17,10 @@ Ce dépôt n'est en aucun cas destiné à être à jour. Il s'agit plutôt d'un 
  - _JavaScript_ stemming package (Arabic/Japanese/English/French) : https://github.com/kariminf/jslingua
  - _Python_ stemming package (English) :https://tartarus.org/martin/PorterStemmer/python.txt (several languages available at https://snowball.tartarus.org/).
  - Stopwords : I used a combination of several sources : https://www.ranks.nl/stopwords (multilingual), http://snowball.tartarus.org/algorithms/ (multilingual) and https://github.com/stopwords-iso.
+
+---
+
+# TODO
+
+ - Add main project's copy at due date.
+ - Add Porter's _Python_ stemmer.
