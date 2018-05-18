@@ -24,3 +24,5 @@ Ce dépôt n'est en aucun cas destiné à être à jour. Il s'agit plutôt d'un 
 
  - Add main project's copy at due date.
  - Add Porter's _Python_ stemmer.
+ - Add semanticpy.
+ - Add jslingua.
